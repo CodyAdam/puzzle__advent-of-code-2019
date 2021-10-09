@@ -7,4 +7,8 @@ You don't need a computer science background to participate - just a little prog
 # Advent-of-Code-2019
 https://adventofcode.com
 
+# My score
+There is 25 level with 2 points to gain on each
+
+I did **14/50 points** this year
 ![result](result.png)
